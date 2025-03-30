@@ -1,0 +1,41 @@
+# Source
+src/
+test/
+examples/
+
+# Build files
+rollup.config.js
+tsconfig.json
+jest.config.js
+.eslintrc
+.prettierrc
+.github/
+
+# Docs
+docs/
+CONTRIBUTING.md
+CHANGELOG.md
+
+# Tests
+coverage/
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts
+
+# Config files
+.travis.yml
+.gitlab-ci.yml
+.editorconfig
+.prettierignore
+.eslintignore
+
+# Git files
+.git/
+.gitattributes
+
+# Misc
+.DS_Store
+*.log
+node_modules/
+Thumbs.db 
